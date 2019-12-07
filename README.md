@@ -2,5 +2,5 @@
 To implement sample text to audio converter using GTTS
 
 
-install module using below command at command prompt /
+install module using below command at command prompt 
 `pip install gTTS` 
